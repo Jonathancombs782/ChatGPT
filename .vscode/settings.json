@@ -52,5 +52,6 @@
   },
   "[mdx]": {
     "editor.defaultFormatter": "biomejs.biome"
-  }
+  },
+  "githubIssues.alwaysPromptForNewIssueRepo": true
 }
