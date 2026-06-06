@@ -53,5 +53,10 @@
   "[mdx]": {
     "editor.defaultFormatter": "biomejs.biome"
   },
-  "githubIssues.alwaysPromptForNewIssueRepo": true
+  "githubIssues.alwaysPromptForNewIssueRepo": true,
+  "python.testing.pytestArgs": [
+    "public"
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true
 }
