@@ -1,12 +1,12 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {
-		"typescript.tsdk": "node_modules/typescript/lib",
-		"emmet.showExpandedAbbreviation": "never",
-		"githubIssues.alwaysPromptForNewIssueRepo": true
-	}
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "emmet.showExpandedAbbreviation": "never",
+    "githubIssues.alwaysPromptForNewIssueRepo": true
+  }
 }
