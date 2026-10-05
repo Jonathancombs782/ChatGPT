@@ -54,9 +54,7 @@
     "editor.defaultFormatter": "biomejs.biome"
   },
   "githubIssues.alwaysPromptForNewIssueRepo": true,
-  "python.testing.pytestArgs": [
-    "public"
-  ],
+  "python.testing.pytestArgs": ["public"],
   "python.testing.unittestEnabled": false,
   "python.testing.pytestEnabled": true
 }
