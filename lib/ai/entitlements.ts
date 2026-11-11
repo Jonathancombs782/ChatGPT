@@ -19,7 +19,5 @@ export const entitlementsByUserType: Record<UserType, Entitlements> = {
     maxMessagesPerDay: 50,
   },
 
-  /*
-   * TODO: For users with an account and a paid membership
-   */
+  // No paid tier exists: guest and regular are the only user types.
 };
